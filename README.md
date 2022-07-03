@@ -1,8 +1,7 @@
 ﻿# Kaggle-SpotifyML
 
-Term Project：
-從網路(COVID-19, Kaggle)或實驗室中找一個資料集, 描述此資  
-料相關資訊, 包含:  
+Term Project：  
+從網路(COVID-19, Kaggle)或實驗室中找一個資料集, 描述此資料相關資訊, 包含:  
 1.問題定義  
 2.潛在問題  
 3.分析與預測難度  
